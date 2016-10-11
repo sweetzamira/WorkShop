@@ -10,64 +10,15 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 # Build a Poem with commits
 Our project will be done using a sequence of save and commits.
-  
+
 ## First Verse 
 <Put the first two verses of Jabberwocky by Lewis Carrol in this section>
-
-
-Beware the Jabberwock, my son!  
-  The jaws that bite, the claws that catch!  
-Beware the Jubjub bird, and shun  
-  The frumious Bandersnatch!"  
-  
-He took his vorpal sword in hand:  
-  Long time the manxome foe he sought --  
-So rested he by the Tumtum tree,  
-  And stood awhile in thought.  
-  
 
 ## Second Verse
 <Put the first two verses of The Road Not Taken by Robert Frost here>
 
-Two roads diverged in a yellow wood,  
-And sorry I could not travel both    
-And be one traveler, long I stood  
-And looked down one as far as I could  
-To where it bent in the undergrowth;  
-
-Then took the other, as just as fair,  
-And having perhaps the better claim,  
-Because it was grassy and wanted wear;  
-Though as for that the passing there  
-Had worn them really about the same,  
-
 ## Third Verse
 <Put the first two verses of The Walrus and the Carpenter here>
-The sun was shining on the sea,   
-      Shining with all his might:   
-He did his very best to make   
-      The billows smooth and bright —   
-And this was odd, because it was   
-      The middle of the night.   
 
-The moon was shining sulkily,   
-      Because she thought the sun   
-Had got no business to be there   
-      After the day was done —   
-"It's very rude of him," she said,   
-      "To come and spoil the fun."   
-      
 ## Last Verse
 <Put a short poem of your choice 8-20 lines,here>
-
-The outlook wasn’t brilliant for the Mudville nine that day:  
-The score stood four to two, with but one inning more to play,  
-And then when Cooney died at first, and Barrows did the same,  
-A pall-like silence fell upon the patrons of the game.  
-
-A straggling few got up to go in deep despair. The rest  
-Clung to the hope which springs eternal in the human breast;  
-They thought, “If only Casey could but get a whack at that—  
-We’d put up even money now, with Casey at the bat.”  
-
-
